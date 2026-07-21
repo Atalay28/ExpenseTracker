@@ -16,7 +16,7 @@ C# ve Entity Framework Core kullanılarak geliştirilmiş, SQLite veritabanı de
 
 ## 💻 Kurulum ve Çalıştırma
 
-Projoyi klonladıktan sonra terminalde şu komutu çalıştırmanız yeterlidir:
+Projeyi klonladıktan sonra terminalde şu komutu çalıştırmanız yeterlidir:
 
 ```bash
 dotnet run
